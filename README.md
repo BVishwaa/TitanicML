@@ -1,1 +1,1 @@
-This repository contains the data cleansing, as well as modelling for Titanic dataset.
+This repository contains the data cleansing, as well as modelling for Titanic dataset
